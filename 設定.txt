@@ -1,0 +1,9 @@
+php 資料夾放到C槽目錄下
+設定環境變數path
+內容有C:\php;C:workspace\composer.phar;
+
+用"命令提示字元"
+在C槽目錄之下打:php version
+在workspace目錄下打:composer
+
+安裝完Composer-Setup並把Composer資料夾名稱改成workspace名稱
